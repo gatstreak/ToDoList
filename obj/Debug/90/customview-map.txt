@@ -1,0 +1,39 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\90\res\layout\additem.xml
+Button;obj\Debug\90\res\layout\edititem.xml
+cache-path;C:\Users\tyler\OneDrive\Lv-6 PE\ToDoList\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+EditText;obj\Debug\90\res\layout\additem.xml
+EditText;obj\Debug\90\res\layout\edititem.xml
+external-cache-path;C:\Users\tyler\OneDrive\Lv-6 PE\ToDoList\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\tyler\OneDrive\Lv-6 PE\ToDoList\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+gradient;obj\Debug\90\res\drawable\gradient_bg.xml
+gradient;obj\Debug\90\res\drawable\gradient_bg_hover.xml
+ImageView;obj\Debug\90\res\layout\customrow.xml
+item;obj\Debug\90\res\drawable\list_selector.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;obj\Debug\90\res\customrow.xml
+LinearLayout;obj\Debug\90\res\layout\additem.xml
+LinearLayout;obj\Debug\90\res\layout\edititem.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+LinearLayout;obj\Debug\90\res\layout1.xml
+ListView;obj\Debug\90\res\layout\main.xml
+paths;C:\Users\tyler\OneDrive\Lv-6 PE\ToDoList\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Debug\90\res\layout\activity_main.xml
+RelativeLayout;obj\Debug\90\res\layout\customrow.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+selector;obj\Debug\90\res\drawable\list_selector.xml
+shape;obj\Debug\90\res\drawable\gradient_bg.xml
+shape;obj\Debug\90\res\drawable\gradient_bg_hover.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\customrow.xml
