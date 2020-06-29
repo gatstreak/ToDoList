@@ -42,7 +42,7 @@ namespace ToDoList
 
         private void onBtnAdd_Click(object sender, EventArgs e)
         {
-            if (txtItemDescription.Text != "" && !string.IsNullOrEmpty(txtItemTitle.Text);
+            if (txtItemDescription.Text != "" && !string.IsNullOrEmpty(txtItemTitle.Text));
             {
                 DatabaseManager.AddItem(txtItemTitle.Text, txtItemDescription.Text);
                 Toast.MakeText(this, "Note was added", ToastLength.Long).Show();

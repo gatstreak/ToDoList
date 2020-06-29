@@ -24,7 +24,11 @@ namespace ToDoList
             SetContentView(Resource.Layout.activity_main);
             myList.AddRange(DatabaseManager.ViewAll());
             ListToDoList = FindViewById<ListView>(Resource.Id.listView1);
+
+            //? line is causing error
+            //? **System.NullReferenceException:** 'Object reference not set to an instance of an object.'
             ListToDoList.Adapter = new DataAdapter(this, myList);
+
             ListToDoList.ItemClick += onListToDoList_click;
 
              Xamarin.Essentials.Platform.Init(this, savedInstanceState);
@@ -36,7 +40,7 @@ namespace ToDoList
             var Position = e.Position; // get the number of the list 
             var ToDoItem = myList[Position]; // get the data from the list at the position 
 
-            var edititem = new Intent(this, typeof(EditItem);
+            var edititem = new Intent(this, typeof(EditItem));
             edititem.PutExtra("Title", ToDoItem.Title);
             edititem.PutExtra("details", ToDoItem.Details);
             edititem.PutExtra("ListID", ToDoItem.ListID);
